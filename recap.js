@@ -5,6 +5,8 @@
  * 4. arrow function
  * 5. destructuring and spread operator
  * 6. Object.keys, Object.values, Object.entries
+ * 7. for of used in array and string,
+ * 8. for in loop used in object 
  */
 
 const a = 56;
